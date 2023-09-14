@@ -13,7 +13,7 @@ The aim of the following project is to leverage the power of machine learning to
 
 Our next step will be to establish a baseline model using a simple algorithm and evaluate its performance compared to random guessing. Then, we will develop a more advanced model to improve the prediction accuracy. We will define clear business metrics to evaluate the performance of our models, and present our findings and conclusions with clear recommendations and next steps for Tasty Bytes data science team to follow. 
 
-![TastyBytes](TastyBytes.jpeg)
+![TastyBytes](TastyBytes/Images/TastyBytes.jpeg)
 
 **About Tasty Bytes**
 _Tasty Bytes was founded in 2020 in the midst of the Covid Pandemic. The world wanted inspiration so we decided to provide it. We started life as a search engine for recipes, helping people to find ways to use up the limited supplies they had at home.
